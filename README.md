@@ -7,4 +7,4 @@ Step by step guide on usage:
 1. Make sure ultralytics is downloaded in your system
 2. Download Nums_Model3.pt
 3. Make a python file in the same loacation as the model in No.2
-4. Run the code inside predict.py in your python file in No.3
+4. Run the code inside Predict.py in your python file in No.3
