@@ -5,6 +5,6 @@ To use this, make sure ultralytics is downloaded in your system. Further informa
 
 Step by step guide on usage:
 1. Make sure ultralytics is downloaded in your system
-2. Download either Nums_Model3.pt or 1-5_Nums_Model2.pt
-3. Make a python file in the same loacation as any of the model in No.2
+2. Download Nums_Model3.pt
+3. Make a python file in the same loacation as the model in No.2
 4. Run the code inside predict.py in your python file in No.3
